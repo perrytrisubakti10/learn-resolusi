@@ -6,3 +6,4 @@ Rencana LearnAndro
   - Angular
   - React
 - Belajar Python
+  - Flask

@@ -1,6 +1,6 @@
 Learn Resolusi
-- OOP Dasar
-- OOP Lanjutan
+- Belajar OOP
 - Dasar2 Framework Laravel 6
 - Coba Membuat Sistem Informasi Perpustakaan Menggunakan Laravel 6
 - Belajar Laravel 6 Intermediate
+- Belajar Membangun RESTful API dengan Laravel 6

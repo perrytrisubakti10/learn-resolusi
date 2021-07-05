@@ -3,6 +3,7 @@ Rencana LearnAndro
   - Belajar Tolls
   - Hubunbgkan ke HP
 - Belajar Javacript
-  - react
+  - Angular
+  - React
 - Belajar Python
   - Flask

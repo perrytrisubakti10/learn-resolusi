@@ -3,4 +3,6 @@ Rencana LearnAndro
   - Belajar Tolls
   - Hubunbgkan ke HP
 - Belajar Javacript
+  - react
 - Belajar Python
+  - Flask

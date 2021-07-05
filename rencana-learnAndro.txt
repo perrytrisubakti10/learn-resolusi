@@ -1,0 +1,3 @@
+Rencana LearnAndro
+- Belajar Android Studio
+- Belajar Javacript
